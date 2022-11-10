@@ -1,0 +1,7 @@
+This is a sample text file to test the grep clone utility function, I'm a and I'm "A".
+I'm b and I'm B, This line exists on line 2.
+Ruhika Bulani
+RUhika BulANI
+RUHIKA BulANI
+RUHika BULani 
+End of file. 
